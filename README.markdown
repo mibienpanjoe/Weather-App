@@ -21,7 +21,7 @@ A simple and responsive weather application that fetches real-time weather data 
 ## Usage
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/weather-app.git
+   git clone https://github.com/mibienpanjoe/Weather-App.git
    ```
 2. **Navigate to the Project Directory**:
    ```bash
